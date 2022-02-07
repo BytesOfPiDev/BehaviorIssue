@@ -1,0 +1,20 @@
+{
+    "project_name": "BehaviorIssue",
+    "project_id": "{a9c7b318-d6b5-40cb-a5f7-ab1705740800}",
+    "origin": "The primary repo for BehaviorIssue goes here: i.e. http://www.mydomain.com",
+    "license": "What license BehaviorIssue uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "BehaviorIssue",
+    "summary": "A short description of BehaviorIssue.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "BehaviorIssue"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "BehaviorIssue"
+}
